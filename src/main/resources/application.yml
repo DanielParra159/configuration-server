@@ -6,4 +6,4 @@ spring:
        server:
          git:
            uri: https://github.com/DanielParra159/microservices-configuration
-           searchPaths: licenseservice, organizationservice
+           searchPaths: licenseservice, organizationservice, gatewayservice, authenticationservice
